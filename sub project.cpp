@@ -1,11 +1,6 @@
 #include<iostream>
 #include<iomanip>
-#include<fstream>
-#include<conio.h>
 #include<string.h>
-#include<stdio.h>
-#include <cstdlib>
-#include <windows.h>
 using namespace std;
 void add();         //insert books
 void display();

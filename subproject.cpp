@@ -3,7 +3,7 @@
 #include<string.h>
 using namespace std;
 void add();          //insert books
-void display();
+void display();     //display booksh 
 int n;             //the numbers of books you wanna access;
 struct book       //structure of name book
 {
